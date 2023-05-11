@@ -3,6 +3,6 @@
 int main() {
     printf("Hello, World!\n");
     printf("first add");
-    printf("secodn add");
+    printf("second add");
     return 0;
 }
