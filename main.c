@@ -5,5 +5,6 @@ int main() {
     printf("first add");
     printf("second add");
     printf("third add");
+    printf("coflict 2 add");
     return 0;
 }
